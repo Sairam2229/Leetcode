@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sairam2229/Leetcode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/Sairam2229/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/Sairam2229/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sairam2229/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sairam2229/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sairam2229/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Sairam2229/Leetcode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Sairam2229/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -68,8 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sairam2229/Leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Sairam2229/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sairam2229/Leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sairam2229/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
