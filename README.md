@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sairam2229/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Sairam2229/Leetcode/tree/master/0053-maximum-subarray) |
+| [0238-product-of-array-except-self](https://github.com/Sairam2229/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Sairam2229/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/Sairam2229/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sairam2229/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sairam2229/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Sairam2229/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
