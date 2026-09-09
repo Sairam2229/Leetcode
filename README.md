@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sairam2229/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Sairam2229/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sairam2229/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sairam2229/Leetcode/tree/master/0344-reverse-string) |
 ## String Matching
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sairam2229/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Sairam2229/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sairam2229/Leetcode/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Sairam2229/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Sairam2229/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sairam2229/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Sairam2229/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sairam2229/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Sairam2229/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Sairam2229/Leetcode/tree/master/0525-contiguous-array) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sairam2229/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sairam2229/Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
