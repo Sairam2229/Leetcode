@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sairam2229/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sairam2229/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sairam2229/Leetcode/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sairam2229/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sairam2229/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sairam2229/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sairam2229/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sairam2229/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sairam2229/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Sairam2229/Leetcode/tree/master/0525-contiguous-array) |
 ## Math
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sairam2229/Leetcode/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sairam2229/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
